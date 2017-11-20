@@ -1,7 +1,19 @@
 
 
+
+
+appium:
+
+
+安装appium，手机连接appium打开开发者模式
+
+点击appium右上角开始标志
+
+和selenium一样使用htmltestruuner生成报告
+
 # my_project
 otc_web is an automated shell for web testing work and is based on testing framework called unittest,we can make a result report by using a py file named HTMLTestRunner,in which cintains the fails and pass of the testing cases.
+
 我们需要：
 
 
